@@ -8,10 +8,11 @@
 		<version>2.6.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.application</groupId>
-	<artifactId>server</artifactId>
+
+	<groupId>com.application-template</groupId>
+	<artifactId>application-template-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>server</name>
+	<name>application-template-server</name>
 	<description>Server for full stack application</description>
 	<properties>
 		<java.version>17</java.version>
